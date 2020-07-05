@@ -1,0 +1,1092 @@
+{
+  "intents": [
+    {
+      "intent": "Presentdoing",
+      "examples": [
+        {
+          "text": "Share some facts"
+        },
+        {
+          "text": "What we should do now in lockdown?"
+        },
+        {
+          "text": "Tell me some entertaining facts to do?"
+        },
+        {
+          "text": "I am feeling bored!"
+        },
+        {
+          "text": "It's all quite here."
+        },
+        {
+          "text": "Entertain me!"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "RecoveryRate",
+      "examples": [
+        {
+          "text": "Which country has the highest recovery rate?"
+        },
+        {
+          "text": "The highest recovery rate is in which country?"
+        },
+        {
+          "text": "Highest recovery rate related to corona virus"
+        },
+        {
+          "text": "highest recovery?"
+        },
+        {
+          "text": "Where is the highest recovery after being affected by corona?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Treatment",
+      "examples": [
+        {
+          "text": "Covid-19 is a dangerous disease, does it have treatment?"
+        },
+        {
+          "text": "Can a person exposed to corona virus have a medical treatment?"
+        },
+        {
+          "text": "What all medical treatment can a person seek for corona virus?"
+        },
+        {
+          "text": "Are there any treatments for Covid-19?"
+        },
+        {
+          "text": "What are the treatments used for Covid-19?"
+        },
+        {
+          "text": "Are there treatments available for corona patients?"
+        },
+        {
+          "text": "Corona virus is dangerous because it doesn't have any treatment?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "WhenSymptomsSurface",
+      "examples": [
+        {
+          "text": "How long does it take for the symptoms to start showing?"
+        },
+        {
+          "text": "How long before symptoms of Covid-19 are seen?"
+        },
+        {
+          "text": "When does a person start showing symptoms?"
+        },
+        {
+          "text": "Can an affect person 2-3 days without symptoms been shown?"
+        },
+        {
+          "text": "How many days does it take for the virus to show its effect?"
+        },
+        {
+          "text": "How long does the coronavirus survive on surfaces?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Hello?"
+        },
+        {
+          "text": "Introduce yourself."
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "What you do?"
+        },
+        {
+          "text": "What's up?!"
+        },
+        {
+          "text": "How may I assist you?"
+        },
+        {
+          "text": "What can I do for you today?"
+        },
+        {
+          "text": "What can I assist you with?"
+        },
+        {
+          "text": "Do you need any help?"
+        },
+        {
+          "text": "What ya doing?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "HumanTrialUSA",
+      "examples": [
+        {
+          "text": "Human trials started in the USA?"
+        },
+        {
+          "text": "When did human trial start in USA?"
+        },
+        {
+          "text": "Are there human trials going on in the USA?"
+        },
+        {
+          "text": "Did the human trial for covid-19 vaccine started in the USA?"
+        },
+        {
+          "text": "Did the USA start human trial?"
+        },
+        {
+          "text": "The USA started human trial for vaccine of covid-19"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AboutCovid19",
+      "examples": [
+        {
+          "text": "Information on covid?"
+        },
+        {
+          "text": "What is Covid19?"
+        },
+        {
+          "text": "Corona Disease"
+        },
+        {
+          "text": "What is Corona Virus?"
+        },
+        {
+          "text": "Covid19"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "Informations related to corona"
+        },
+        {
+          "text": "Can I know about the Covid?"
+        },
+        {
+          "text": "Information related to COVID-19"
+        },
+        {
+          "text": "Is there any vaccines in process"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AssymptomaticCarriers",
+      "examples": [
+        {
+          "text": "Can the virus be transmitted from an asymptomatic carrier to another host?"
+        },
+        {
+          "text": "What is an asymptomatic carrier?"
+        },
+        {
+          "text": "Do the virus affect asymptomatic carriers?"
+        },
+        {
+          "text": "asymptomatic carrier don't show any signs of symptoms?"
+        },
+        {
+          "text": "what is an asymptomatic host?"
+        },
+        {
+          "text": "How to identify asymptomatic host?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "socialdistancing",
+      "examples": [
+        {
+          "text": "Why should we practice social distancing?"
+        },
+        {
+          "text": "Is social distancing important?"
+        },
+        {
+          "text": "What is social distancing?"
+        },
+        {
+          "text": "What is social distancing and why is it important?"
+        },
+        {
+          "text": "How does social distancing help?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "highestrecoveryrate",
+      "examples": [
+        {
+          "text": "Which country is recovering faster?"
+        },
+        {
+          "text": "Which country is more successful in dealing with corona?"
+        },
+        {
+          "text": "Which country has the highest recovery rate?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "byegreetings",
+      "examples": [
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "It was helpful"
+        },
+        {
+          "text": "Awesome, thanks"
+        },
+        {
+          "text": "I got what you were finding"
+        },
+        {
+          "text": "Ok"
+        },
+        {
+          "text": "See you soon!"
+        },
+        {
+          "text": "Bye"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Symptoms",
+      "examples": [
+        {
+          "text": "Symptoms for Covid-19?"
+        },
+        {
+          "text": "Symptoms for corona virus?"
+        },
+        {
+          "text": "Symptoms shown on a person after being exposed to Covid-19?"
+        },
+        {
+          "text": "What symptoms can we see on a person affected by corona virus?"
+        },
+        {
+          "text": "What are the symptoms of Covid-19"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AboutCorona",
+      "examples": [
+        {
+          "text": "Tell me about Corona."
+        },
+        {
+          "text": "What is Corona?"
+        },
+        {
+          "text": "Corona Virus"
+        },
+        {
+          "text": "How i know I have corona?"
+        },
+        {
+          "text": "What is Covid?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SpreadsBy",
+      "examples": [
+        {
+          "text": "Covid-19 isn't airborne so how does it spread?"
+        },
+        {
+          "text": "How can Covid-19 spread?"
+        },
+        {
+          "text": "From touching an infected person can corona virus be transmitted?"
+        },
+        {
+          "text": "By touching asymptomatic carrier host can a healthy host be infected?"
+        },
+        {
+          "text": "How does the virus spread?"
+        },
+        {
+          "text": "How does it spread?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Epicenter",
+      "examples": [
+        {
+          "text": "Is Wuhan the epicenter for the virus in China?"
+        },
+        {
+          "text": "From when and where did the pandemic start?"
+        },
+        {
+          "text": "Wuhan the start of corona virus?"
+        },
+        {
+          "text": "Where did this virus outbreak start from?"
+        },
+        {
+          "text": "Which country had the first case of this virus?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "EpitoPanda",
+      "examples": [
+        {
+          "text": "Could we have stopped it at epidemic stage?"
+        },
+        {
+          "text": "Epidemic to be stopped before it became pandemic?"
+        },
+        {
+          "text": "Could china have stopped epidemic to turn into pandemic?"
+        },
+        {
+          "text": "Could China have stopped pandemic if they had heed us the warning?"
+        },
+        {
+          "text": "Had China taken necessary measure would this pandemic be only epidemic"
+        },
+        {
+          "text": "Could we have avoided pandemic?"
+        },
+        {
+          "text": "Could we have avoided epidemic to turn into pandemic?"
+        },
+        {
+          "text": "Could this pandemic be avoid?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "HumanTrialUK",
+      "examples": [
+        {
+          "text": "Human trial for Covid-19 vaccination started in UK?"
+        },
+        {
+          "text": "Did UK start the human trial phase?"
+        },
+        {
+          "text": "When did human trial start in Uk?"
+        },
+        {
+          "text": "Human trial started in UK?"
+        },
+        {
+          "text": "In UK has Oxford University started human trial phase for Covid-19 vaccination?"
+        },
+        {
+          "text": "UK in the human trial phase for the vaccine?"
+        },
+        {
+          "text": "UK started the human trial phase of the corona virus vaccine?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Prevention",
+      "examples": [
+        {
+          "text": "How do I safeguard myself?"
+        },
+        {
+          "text": "Is there any prevention measure for Covid-19?"
+        },
+        {
+          "text": "What are the precautionary measures for Covid-19?"
+        },
+        {
+          "text": "What should i do to be safe?"
+        },
+        {
+          "text": "How to prevent from Covid?"
+        },
+        {
+          "text": "Is there any prevention measure for Corona?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AgeGroupMoreAtRisk",
+      "examples": [
+        {
+          "text": "Who is at most risk because of Corona virus?"
+        },
+        {
+          "text": "Who is more at risk for the corona virus disease"
+        },
+        {
+          "text": "Elder people more at risk?"
+        },
+        {
+          "text": "Elder age group have less recovery chance?"
+        },
+        {
+          "text": "People in their 40's-50's more at risk because of covid-19?"
+        },
+        {
+          "text": "Are young age group more at risk?"
+        },
+        {
+          "text": "Which age group is more in danger because of Covid-19?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "HighestDeathRate",
+      "examples": [
+        {
+          "text": "Which country has the highest death rates due to Covid-19?"
+        },
+        {
+          "text": "Country with highest death rate?"
+        },
+        {
+          "text": "Corona virus caused highest death rate in?"
+        },
+        {
+          "text": "Highest death rate because of Covid-19?"
+        },
+        {
+          "text": "Which country has the highest human loss because of Covid-19?"
+        },
+        {
+          "text": "Highest life loss in which country?"
+        },
+        {
+          "text": "Country which has surpass the highest death troll?"
+        },
+        {
+          "text": "Country having the highest death troll because of corona virus disease"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "RecoveryTime",
+      "examples": [
+        {
+          "text": "Recovery time?"
+        },
+        {
+          "text": "How long does it take to recover from corona virus?"
+        },
+        {
+          "text": "Can a person recover after being exposed to Covid-19?"
+        },
+        {
+          "text": "What can be the minimum about of time it takes to recover from corona virus?"
+        },
+        {
+          "text": "what is the recovery time?"
+        },
+        {
+          "text": "Recovery time for corona virus?"
+        },
+        {
+          "text": "Can a person recover from corona virus?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "lockdown",
+      "examples": [
+        {
+          "text": "What is the use of implementing lockdown?"
+        },
+        {
+          "text": "Should we abide by the lockdown?"
+        },
+        {
+          "text": "What's the use of abiding the lockdown?"
+        },
+        {
+          "text": "Will the lockdown be effective?"
+        },
+        {
+          "text": "Why we should be in lockdown?"
+        },
+        {
+          "text": "Is lockdown important?"
+        },
+        {
+          "text": "Why lockdown is necessary?"
+        },
+        {
+          "text": "Why should we stay at home?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PresentScenario",
+      "examples": [
+        {
+          "text": "How corona affected the world?"
+        },
+        {
+          "text": "Total cases of corona?"
+        },
+        {
+          "text": "Total deaths"
+        },
+        {
+          "text": "What is the current status of corona?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Spread",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "COVID-19 spreads mainly by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. This can happen in two ways: Direct close contact: one can get the infection by being in close contact with COVID-19 patients (within one Metre of the infected person), especially if they do not cover their face when coughing or sneezing. Indirect contact: the droplets survive on surfaces and clothes for many days. Therefore, touching any such infected surface or cloth and then touching one’s mouth, nose or eyes\ncan transmit the disease."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#SpreadsBy",
+      "dialog_node": "node_10_1587806411146",
+      "previous_sibling": "node_4_1587790103915"
+    },
+    {
+      "type": "standard",
+      "title": "About Corona Virus",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Coronaviruses (CoV) are a large family of viruses transmitting between animals and people that cause illness ranging from the common cold to more severe diseases such as Middle East respiratory syndrome (MERS-CoV) and severe acute respiratory syndrome (SARS-CoV)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AboutCovid19",
+      "dialog_node": "node_6_1587747344032",
+      "previous_sibling": "node_8_1587747163966"
+    },
+    {
+      "type": "standard",
+      "title": "Assymptomatic Carriers",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Host that has the virus inside them but they don't show any symptoms and the virus doesn't affect them. But the virus can be transmitted through them to a healthy host and that person may become sick."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AssymptomaticCarriers",
+      "dialog_node": "node_10_1587759010298",
+      "previous_sibling": "node_3_1587806524630"
+    },
+    {
+      "type": "standard",
+      "title": "Feeling Boredom",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Don’t fret, there are still plenty of free things left to do:\n1. Watch a Movie\n2. Watch a documentary\n3. Write a novel\n4. Tour ancient Rome\netc. etc."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Presentdoing",
+      "dialog_node": "node_8_1587748396824",
+      "previous_sibling": "node_1_1587748133416"
+    },
+    {
+      "type": "standard",
+      "title": "Highest Recovery Rate of Corona",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "China, the first country to report cases of the coronavirus, has the highest recovery rate with nearly 83,000 confirmed cases and over 77,000 confirmed recoveries as of April 8."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#highestrecoveryrate && #RecoveryRate",
+      "dialog_node": "node_9_1587756472361",
+      "previous_sibling": "node_9_1587747683954"
+    },
+    {
+      "type": "standard",
+      "title": "See you Soon",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "See you soon!! Be Safe!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#byegreetings",
+      "dialog_node": "node_2_1587748529396",
+      "previous_sibling": "node_8_1587748396824"
+    },
+    {
+      "type": "standard",
+      "title": "Incubation Time",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The incubation period of the virus is the time between the exposure and the display of symptoms. Current information suggests that the incubation period ranges from 1 to 12.5 days (with median estimates of 5 to 6 days), but can be as long as 14 days."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#WhenSymptomsSurface",
+      "dialog_node": "node_7_1587806595169",
+      "previous_sibling": "node_9_1587806341260"
+    },
+    {
+      "type": "standard",
+      "title": "Present Stats of Corona",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The coronavirus COVID-19 is affecting 210 countries and territories around the world and 2 international conveyances.  Confirmed cases are around 2.75M with Deaths rising to 193K"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PresentScenario",
+      "dialog_node": "node_9_1587747683954",
+      "previous_sibling": "node_10_1587759010298"
+    },
+    {
+      "type": "standard",
+      "title": "About you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, this is COVID BOT. You can ask anything about Covid19."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Greetings",
+      "dialog_node": "node_8_1587747163966",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Human Trail in US",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Supported by a global coalition founded by India and Norway, the US has begun the phase one clinical trial of an investigational vaccine designed to protect against the coronavirus disease. The trial began at the Kaiser Permanente Washington Health Research Institute (KPWHRI) in Seattle as the first participant received the investigational vaccine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#HumanTrialUSA",
+      "dialog_node": "node_4_1587790628098",
+      "previous_sibling": "node_4_1587790497622"
+    },
+    {
+      "type": "standard",
+      "title": "Death Rate",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "COVID-19 rate of death, or the known deaths divided by confirmed cases, was over ten percent in Belgium and eight other world countries with 1,000 or more cases. This according to a calculation that combines coronavirus stats on both deaths and registered cases for 82 different countries. Note that death rates are not the same as the chance of dying from an infection or the so-called mortality rate (which reflects the number of deaths based on an at-risk population). By April 24, 2020, the virus had infected over 2.7 million people worldwide, and the number of deaths had totaled more than 190,000."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#HighestDeathRate",
+      "dialog_node": "node_4_1587790103915",
+      "previous_sibling": "node_3_1587789807894"
+    },
+    {
+      "type": "standard",
+      "title": "Risky Age Group",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "People of all ages can be infected by the new coronavirus (2019-nCoV). Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AgeGroupMoreAtRisk",
+      "dialog_node": "node_5_1587758778185",
+      "previous_sibling": "node_6_1587747568798"
+    },
+    {
+      "type": "standard",
+      "title": " Human Trial in UK",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Two volunteers were injected, the first of more than 800 people recruited for the study. Half will receive the Covid-19 vaccine, and half a control vaccine which protects against meningitis but not coronavirus. The design of the trial means volunteers will not know which vaccine they are getting, though doctors will."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#HumanTrialUK",
+      "dialog_node": "node_4_1587790497622",
+      "previous_sibling": "node_9_1587790843671"
+    },
+    {
+      "type": "standard",
+      "title": "Recovery Time",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Using available preliminary data, the median time from onset to clinical recovery for mild cases is approximately 2 weeks and is 3-6 weeks for patients with the severe or critical disease."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#RecoveryTime",
+      "dialog_node": "node_9_1587790843671",
+      "previous_sibling": "node_9_1587756472361"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1587748529396",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Epidemic",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A global pandemic like COVID-19 was inevitable, Quammen says in an interview with Yale Environment 360. What was not inevitable, given the alerts that scientists have been issuing for a decade or more, was the utter lack of preparedness. “I am surprised at how unprepared we’ve been and how badly we, meaning this [Trump] administration but also state governments, have managed this,” he says."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#EpitoPanda",
+      "dialog_node": "node_3_1587789807894",
+      "previous_sibling": "node_9_1587789556372"
+    },
+    {
+      "type": "standard",
+      "title": "Social Distancing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Social distancing is a non-pharmaceutical infection prevention and control intervention implemented to avoid/decrease contact between those who are infected with a disease-causing pathogen and those who are not, so as to stop or slow down the rate and extent of disease transmission in a community. This eventually leads to a decrease in spread, morbidity and mortality due to the disease."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#socialdistancing",
+      "dialog_node": "node_9_1587806341260",
+      "previous_sibling": "node_10_1587806411146"
+    },
+    {
+      "type": "standard",
+      "title": "Locked Down",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Covid19 spread by contact. And the only possible way to stop this is to stop people gathering. And so everyone is advising the lockdown as an important weapon against this virus."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#lockdown",
+      "dialog_node": "node_1_1587748133416",
+      "previous_sibling": "node_3_1587747942509"
+    },
+    {
+      "type": "standard",
+      "title": "Treatment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Medical treatments:\nIf you have mild symptoms and are otherwise healthy, self-isolate and contact your medical provider or a COVID-19 information line for advice.\nSeek medical care if you have a fever, a cough, and difficulty breathing. Call in advance."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Treatment",
+      "dialog_node": "node_3_1587806524630",
+      "previous_sibling": "node_5_1587758778185"
+    },
+    {
+      "type": "standard",
+      "title": "Symptoms Of Corona Virus",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Common symptoms include:\n1. fever.\n2. tiredness.\n3. dry cough.\nSome people may experience:\n1. aches and pains.\n2. nasal congestion.\n3. runny nose.\n4. sore throat.\n5. diarrhoea."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AboutCorona && #Symptoms",
+      "dialog_node": "node_6_1587747568798",
+      "previous_sibling": "node_6_1587747344032"
+    },
+    {
+      "type": "standard",
+      "title": "Epicenter of Coron",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The source of the coronavirus is believed to be a \"wet market\" in Wuhan which sold both dead and live animals including fish and birds. \nSuch markets pose a heightened risk of viruses jumping from animals to humans because hygiene standards are difficult to maintain if live animals are being kept and butchered on site. Typically, they are also densely packed allowing disease to spread from species to species."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Epicenter",
+      "dialog_node": "node_9_1587789556372",
+      "previous_sibling": "node_4_1587790628098"
+    },
+    {
+      "type": "standard",
+      "title": "Prevention Measures",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The only option is to STAY HOME. SAVE LIVES. Only you can help to stop coronavirus.\n1 STAY home\n2 KEEP a safe distance\n3 WASH hands often\n4 COVER your cough\n5 SICK?Call the helpline"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Prevention",
+      "dialog_node": "node_3_1587747942509",
+      "previous_sibling": "node_7_1587806595169"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to COVID 19 Chat Bot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "My first skill",
+  "language": "en",
+  "description": ""
+}
